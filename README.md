@@ -23,3 +23,4 @@ This application generates a random password based on user-selected criteria.
     WHEN the password is generated
     THEN the password is written to the page.
 ## Web Site Link
+https://kenwong356.github.io/kenwong356-java-homework-3/
