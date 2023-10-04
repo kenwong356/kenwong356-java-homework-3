@@ -1,11 +1,7 @@
 # kenwong356-java-homework-3
 Password Generator
 
-## Description
-
-This application generates a random password based on user-selected criteria.
-
-## App functioning
+## Acceptance Criteria
 
     GIVEN I need a new, secure password
     WHEN I click the button to generate a password
